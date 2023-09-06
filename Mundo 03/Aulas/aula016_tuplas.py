@@ -20,5 +20,5 @@ c = a + b
 print(c.index(5))
 
 pessoa = ('Gustavo', 39, 'M', 99.88)
-del pessoa
+# del pessoa
 print(pessoa)
