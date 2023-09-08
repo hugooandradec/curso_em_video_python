@@ -19,7 +19,7 @@ for posiçao in range(17, 21):
     print(f'{posiçao}º - {time}')
 
 tupla_ordenada = sorted(tupla_times)
-print('\nEsses são os times em ordem alfabética:\n ')
+print('\nEsses são os times em ordem alfabética: ')
 for contador in range(0, len(tupla_ordenada)):
     print(f'{tupla_ordenada[contador]}')
 
